@@ -1,5 +1,7 @@
 # Repetier-Firmware - the fast and user friendly firmware
 
+# Visit seemecnc.com for documentation under the SUPPORT menu tab SUPPORT
+
 ## Installation
 
 Please use your new at [http://www.repetier.com/firmware/v091](http://www.repetier.com/firmware/v091)
